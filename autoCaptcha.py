@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 driver = webdriver.Chrome()
-driver.get("http://recruit.osiris.bar:50057/")
+driver.get("//")
 
 def get_image():
     img_element = driver.find_element(By.XPATH, "//img[@src]")
