@@ -1,4 +1,4 @@
 # AutoCaptcha
 
 Brute Force Algorithm to solve duplicate Captcha images.
-Requires Selenium.
+Uses Selenium for Web Automation.
